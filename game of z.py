@@ -48,6 +48,7 @@ while(1):
 									break
 		else:
 						print"u lost"
+						exit(1)
 time_elapsed=time.time()-s_time
 print"u have completed the game"
 print"the time taken is"+str(time_elapsed)
