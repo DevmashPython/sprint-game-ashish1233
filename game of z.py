@@ -53,3 +53,6 @@ time_elapsed=time.time()-s_time
 print"u have completed the game"
 print"the time taken is"+str(time_elapsed)
 
+'''
+1. Mention controls for the game.
+'''
